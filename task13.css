@@ -1,0 +1,15 @@
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+.parent div{
+    text-align: center;
+    border: 1px solid black;
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+select{
+    margin-bottom: 30px;
+}
